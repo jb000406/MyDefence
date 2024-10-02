@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MyDefence/Scenes/TitleScene.unity
+    guid: 73c9408bd957d08418bd7e0ee42ba2ca
+  - enabled: 1
+    path: Assets/MyDefence/Scenes/MainMenu.unity
+    guid: 961562f0d2490dc479200e3ecf9b04e1
+  - enabled: 1
+    path: Assets/MyDefence/Scenes/LevelSelect.unity
+    guid: 8215322cfd778a64493c02934f4df9f2
+  - enabled: 1
+    path: Assets/MyDefence/Scenes/Level01.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/MyDefence/Scenes/Level02.unity
+    guid: 3dc31cc2f6af7cd4bb8d1ffb6febd2c4
+  - enabled: 1
+    path: Assets/MyDefence/Scenes/Level03.unity
+    guid: ab2d73cef3c926940a21a13f2f05b4de
+  - enabled: 1
+    path: Assets/MyDefence/Scenes/Level04.unity
+    guid: 8312068bf0f50d84d87de3661a03208a
+  - enabled: 1
+    path: Assets/MyDefence/Scenes/Level05.unity
+    guid: 7de43f589ec05b145a3f2d9fab4ca798
+  - enabled: 1
+    path: Assets/MyDefence/Scenes/Level06.unity
+    guid: 3b73c0b2cd76ac84097e9a3e127c1ae7
+  - enabled: 1
+    path: Assets/MyDefence/Scenes/Level07.unity
+    guid: 6a403eb01a666fc4b92da22375568e8d
+  m_configObjects: {}
