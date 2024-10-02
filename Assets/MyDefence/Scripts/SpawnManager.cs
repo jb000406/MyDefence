@@ -46,6 +46,7 @@ namespace MyDefence
             countdown = 2f;
             waveCount = 0;
 
+            enmeyAlive = 0;
             //시작지점 위치에  Enemy 1개를 생성
             //SpawnEnemy();
         }

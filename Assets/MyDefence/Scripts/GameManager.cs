@@ -48,7 +48,7 @@ namespace MyDefence
             {
                 ShowMeTheMoney();
             }
-            if (Input.GetKeyDown(KeyCode.O) && isCheating)
+            if (Input.GetKeyDown(KeyCode.O) /*&& isCheating*/)
             {
                 //GameOver();
                 LevelClear();
